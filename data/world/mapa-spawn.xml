@@ -50,16 +50,16 @@
 	<spawn centerx="964" centery="810" centerz="5" radius="1">
 		<monster name="Medusa" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="1096" centery="1158" centerz="5" radius="1">
-		<monster name="Hydra" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="1099" centery="1159" centerz="5" radius="1">
 		<monster name="Wyvern" x="0" y="1" z="5" spawntime="60" />
 		<monster name="Earth Elemental" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="1104" centery="1159" centerz="5" radius="1">
-		<monster name="Crystal Spider" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Massive Earth Elemental" x="-1" y="1" z="5" spawntime="60" />
+	<spawn centerx="1103" centery="1159" centerz="5" radius="1">
+		<monster name="Crystal Spider" x="1" y="0" z="5" spawntime="60" />
+		<monster name="Massive Earth Elemental" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1095" centery="1160" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1235" centery="1455" centerz="5" radius="5">
 		<monster name="Orc Leader" x="1" y="-3" z="5" spawntime="60" />
