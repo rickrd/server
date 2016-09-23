@@ -26627,8 +26627,15 @@
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="20127" article="a" name="wimp tooth chain">
-		<attribute key="weight" value="240" />
-		<attribute key="description" value="It contains the teeth of many easy victims." />
+		<attribute key="description" value="Alchemist worms imbued it with magic that boosts wearer's regeneration."/>
+		<attribute key="weight" value="600"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="armor" value="2"/>
+		<attribute key="healthGain" value="15"/>
+		<attribute key="healthTicks" value="3000"/>
+		<attribute key="manaGain" value="10"/>
+		<attribute key="manaTicks" value="3000"/>
+		<attribute key="showattributes" value="1"/>
 	</item>
 	<item id="20128" article="a" name="lost husher's staff" plural="lost husher's staves">
 		<attribute key="weight" value="800" />

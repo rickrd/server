@@ -3,6 +3,11 @@
 	<!-- Novos -->
     <action actionid="9717" script="other/yackal.lua" /> 
 	
+	<!-- Edited -->
+	<action actionid="45001" script="quests/quest_warrior_helmet.lua"/>
+	<action actionid="45002" script="quests/quest_worms_amulet.lua"/>
+	<action actionid="45003" script="quests/quest_dragon_shield.lua"/>
+	
 	<!-- Gray Island -->
 	<action uniqueid="25610" script="gray island/jaul.lua" />
 	<action uniqueid="25611" script="gray island/tanjis.lua" />
