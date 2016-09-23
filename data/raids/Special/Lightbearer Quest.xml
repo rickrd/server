@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+    <!--
+	// Raid System by Wandeko Gomes
+	// DO NOT CHANGE INTERVAL UNLESS YOU ARE SURE WHAT YOU ARE DOING!!
+	-->
+
+  <!--Announcements-->
+    <announce delay="1000" type="Event" message="ALGUMA DAS LUZES QUE MANTINHAM O BRILHO DO MUNDO DURANTE A NOITE SE APAGARAM. As Criaturas da Escuridão estão prestes a invadir." />
+
+
+	<announce delay="10000" type="Event" message="Ao sul do barco de Carlin é a entrada." />
+
+<announce delay="20000" type="Event" message="LIGHTBEARER QUEST START! Ao sul do barco de Carlin é a entrada." />
+
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32391" y="31895" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32392" y="31895" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32393" y="31895" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32394" y="31895" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32396" y="31895" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32385" y="31889" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32384" y="31889" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32397" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32396" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32394" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32393" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32395" y="31881" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32394" y="31881" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32385" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32384" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32379" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32387" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32386" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32383" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32378" y="31886" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32377" y="31886" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="20000" name="Bride of Night" amount="12" x="32374" y="31886" z="7" />
+
+ 
+  <announce delay="60000" type="Event" message="THE NEXT WAVE!" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32391" y="31895" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32392" y="31895" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32393" y="31895" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32394" y="31895" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32396" y="31895" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32385" y="31889" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32384" y="31889" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32397" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32396" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32394" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32393" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32395" y="31881" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32394" y="31881" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32385" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32384" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32379" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32387" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32386" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32383" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32378" y="31886" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32377" y="31886" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="61000" name="Nightslayer" amount="12" x="32374" y="31886" z="7" />
+
+ <announce delay="120000" type="Event" message="START!" />
+  <!--Single Spawns-->
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32391" y="31895" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32392" y="31895" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32393" y="31895" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32394" y="31895" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32396" y="31895" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32385" y="31889" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32384" y="31889" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32397" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32396" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32394" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32393" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32395" y="31881" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32394" y="31881" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32385" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32384" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32379" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32387" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32386" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32383" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32378" y="31886" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32377" y="31886" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="121000" name="Midnight Spawn" amount="12" x="32374" y="31886" z="7" />
+
+
+<announce delay="180000" type="Event" message="THE WAVE COMMING!!" />
+  <!--Single Spawns-->
+ <singlespawn delay="181000" name="Bane  of Light" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32391" y="31895" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32392" y="31895" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32393" y="31895" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32394" y="31895" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32396" y="31895" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32385" y="31889" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32384" y="31889" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32397" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32396" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32394" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32393" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32395" y="31881" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32394" y="31881" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32385" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32384" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32379" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32387" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32386" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32383" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32378" y="31886" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32377" y="31886" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="181000" name="Bane of Light" amount="12" x="32374" y="31886" z="7" />
+
+
+<announce delay="240000" type="Event" message="YOU HAVE TIME FOR OTHER WAVE?" />
+  <!--Single Spawns-->
+
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32391" y="31895" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32392" y="31895" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32393" y="31895" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32394" y="31895" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32396" y="31895" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32385" y="31889" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32384" y="31889" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32397" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32396" y="31880" z="7" />
+
+ <singlespawn delay="241000" name="Harbinger of Darkness" amount="12" x="32388" y="31883" z="7" />
+
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32394" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32393" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32395" y="31881" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32394" y="31881" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32385" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32384" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32379" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32387" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32386" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32383" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32378" y="31886" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32377" y="31886" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="241000" name="Midnight Warrior" amount="12" x="32374" y="31886" z="7" />
+
+<announce delay="300000" type="Event" message="THE LAST WAVE!" />
+  <!--Single Spawns-->
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32395" y="31894" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32394" y="31894" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32393" y="31894" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32392" y="31894" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32391" y="31894" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32387" y="31888" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32386" y="31888" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32385" y="31888" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32384" y="31888" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32383" y="31888" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32387" y="31889" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32386" y="31889" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32383" y="31889" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32397" y="31880" z="7" />
+
+ <singlespawn delay="301000" name="Eclipse Knight" amount="12" x="32388" y="31883" z="7" />
+
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32395" y="31880" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32396" y="31881" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32393" y="31881" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32387" y="31873" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32386" y="31873" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32383" y="31873" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32382" y="31873" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32381" y="31880" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32380" y="31880" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32378" y="31880" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32377" y="31880" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32385" y="31897" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32384" y="31897" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32382" y="31897" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32379" y="31886" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32376" y="31886" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32375" y="31886" z="7" />
+ <singlespawn delay="301000" name="Duskbringer" amount="12" x="32374" y="31886" z="7" />
+
+
+<announce delay="361000" type="Event" message="I GOT TURN OFF ALL LIGHTS ON WORLD!" />
+
+
+  <singlespawn delay="381000" name="Gloombringer" x="32390" y="31891" z="7" />
+<!--Area Spawns-->
+  
+</raid>

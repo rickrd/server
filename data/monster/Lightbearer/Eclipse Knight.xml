@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Eclipse Knight" nameDescription="Eclipse Knight" race="undead" experience="5500" speed="470" manacost="0">
+	<health now="102000" max="102000" />
+	<look type="234" corpse="6331" />
+	<targetchange interval="2000" chance="5" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag staticattack="50" />
+		<flag lightlevel="0" />
+		<flag lightcolor="0" />
+		<flag targetdistance="1" />
+		<flag runonhealth="2000" />
+		<flag rewardchest="1" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="-660" max="-1280" />
+	</attacks>
+	<defenses armor="64" defense="72" />
+	<immunities>
+		<immunity energy="1" />
+		<immunity fire="1" />
+		<immunity poison="1" />
+		<immunity invisible="1" />
+	</immunities>
+	<loot>
+		<item id="10531" chance="100000" /><!-- midnight shard -->
+	</loot>
+</monster>

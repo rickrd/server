@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Renegade Knight" nameDescription="Renegade Knight" race="blood" experience="1200" speed="170" manacost="0">
+    <health now="1450" max="1450" />
+    <look type="268" head="97" body="132" legs="95" feet="98" addons="2" corpse="24671" />
+	<targetchange interval="4000" chance="10"/>
+	<flags>
+        <flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" skill="70" attack="80"/>
+	</attacks>
+	<defenses armor="40" defense="40"/>
+	<elements>
+		<element energyPercent="25"/>
+		<element holyPercent="20"/>
+		<element earthPercent="-10"/>
+		<element deathPercent="-10"/>
+	</elements>
+	<voices interval="5000" chance="10">
+		<voice sentence="I'll teach you a lesson!"/>
+		<voice sentence="Your abilities are no match for mine!"/>
+		<voice sentence="Take this!"/>
+		<voice sentence="A challenge at last!"/>
+		<voice sentence="Feel my steel!"/>
+		<voice sentence="Let's see how good you are!"/>
+	</voices>
+	<loot>
+		<item id="2148" countmax="100" chance="82000"/><!-- gold coin -->
+		<item id="2544" countmax="12" chance="7570"/><!-- Arrows -->
+		<item id="2681" chance="5750"/><!-- grape -->
+		<item id="7591" chance="2000" /><!-- great health potion -->
+		<item id="2666" countmax="2" chance="15100" /><!-- meat -->
+		<item id="7364" countmax="4" chance="6250" /><!-- sniper arrow -->
+		<item id="2487" chance="5950"/><!-- crown armor -->
+		<item id="2491" chance="5000"/><!-- crown helmet -->
+		<item id="2519" chance="29030"/><!-- crown shield -->
+		<item id="2488" chance="20510"/><!-- crown legs -->
+		<item id="2392" chance="46880"/><!-- fire sword -->
+		<item id="2381" chance="4460" /><!-- halberd -->
+		<item id="2744" chance="4400"/> <!-- red rose -->
+		<item id="2120" chance="4540"/><!-- rope -->
+		<item id="1949" chance="10000"/><!-- scroll -->
+		<item id="12466" chance="5000"/> <!-- scroll of heroic deeds -->
+		<item id="12406" chance="1000"/> <!-- small notebook -->
+		<item id="2121" chance="5000"/> <!-- wedding ring -->
+	</loot>
+</monster>

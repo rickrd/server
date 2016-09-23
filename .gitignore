@@ -1,0 +1,6 @@
+# Ignore otbm files due size limits
+*.otbm
+
+# Ignore backup files
+*.bak
+*.new

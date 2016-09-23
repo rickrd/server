@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dawnfire Asura" nameDescription="Dawnfire Asura" race="blood" experience="4100" speed="170" manacost="0">
+    <health now="2900" max="2900" />
+    <look type="150" head="114" body="94" legs="97" feet="98" addons="1" corpse="20318" />
+	<targetchange interval="4000" chance="10"/>
+	<flags>
+        <flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" skill="60" attack="30"/>
+	</attacks>
+	<defenses armor="20" defense="20"/>
+	<elements>
+		<element energyPercent="25"/>
+		<element holyPercent="20"/>
+		<element earthPercent="-10"/>
+		<element deathPercent="-10"/>
+	</elements>
+	<voices interval="5000" chance="10">
+		<voice sentence="Il lorstok human!"/>
+		<voice sentence="Toks utat."/>
+		<voice sentence="Human, uh whil dyh!"/>
+		<voice sentence="Youh ah trak!"/>
+		<voice sentence="Let da mashing begin!"/>
+	</voices>
+	<loot>
+		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
+		<item id="2186" chance="210"/><!-- monolight -->
+		<item id="2463" chance="30070"/><!-- peacock feather fan -->
+		<item id="24630" chance="2500"/><!-- golden luts -->
+		<item id="5944" chance="8000"/><!-- soul orb -->
+		<item id="8910" chance="1400"/><!-- underworld rod -->
+		<item id="6500" chance="190"/><!-- demonic -->
+		<item id="3967" chance="1003"/><!-- tribal mask -->
+		<item id="2656" chance="220"/><!-- blue rope -->
+		<item id="9971" chance="90"/><!-- gold nuud -->
+		<item id="2185" chance="80"/><!-- necrotic rod -->
+		<item id="8902" chance="4930"/><!-- mind control -->
+                <item id="7591" chance="4930"/><!-- great potion -->
+                <item id="8889" chance="4930"/><!-- skull armor -->
+                <item id="7368" chance="4930"/><!-- assassin star -->
+                <item id="6558" chance="4930"/><!-- great potion -->
+                <item id="2147" chance="4930"/><!-- small ruby -->
+                <item id="2149" chance="4930"/><!-- small esmerald -->
+                <item id="2145" chance="4930"/><!-- small diamond -->
+                <item id="7404" chance="4930"/><!-- assasin deager -->
+                <item id="2463" chance="4930"/><!-- oriental shoes -->
+                <item id="8902" chance="4930"/><!-- mind control -->
+	</loot>
+</monster>
