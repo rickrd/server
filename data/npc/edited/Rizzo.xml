@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Rizzo" script="loot.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="516" head="96" body="114" legs="75" feet="1" addons="2"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="What's up |PLAYERNAME|? I'm trading most weapons and shields, are you interested?"/>
+		
+		<parameter key="shop_sellable" value="dragon shield, 2516, 5000; battle shield, 2513, 700; shield of honour, 2517, 12000; bonelord shield, 2518, 2000; crown shield, 2519, 7000; dark shield, 2521, 1500; ornamented shield, 2524, 1000; dwarven shield, 2525, 2500; tortoise shield, 6131, 3700; norse shield, 7460, 3500; tower shield, 2528, 5500; phoenix shield, 2539, 24500;
+fire sword, 2392, 6000; ice rapier, 2396, 4000; serpent sword, 2409, 3500; djinn blade, 2451, 16500; epee, 2438, 13000; mercenary sword, 7386, 26000; pharaoh sword, 2446, 24000; dragon slayer, 7402, 19000; assassin dagger, 7404, 18500; wyvern fang, 7408, 8000; crystal sword, 7449, 6000; war hammer, 2391, 8000; dragon hammer, 2434, 5000; skull staff, 2436, 9000; diamond sceptre, 7387, 9000; sapphire hammer, 7437, 12000; crystal mace, 2445, 15500; spiked squelcher, 7452, 14000; dragonbone staff, 7430, 9000; fire axe, 2432, 13000; knight axe, 2430, 10500; dragon lance, 2414, 20500; guardian halberd, 2427, 22000; dwarven axe, 2435, 9500; noble axe, 7456, 25500; beastslayer axe, 3962, 14000; twin axe, 2447, 21500;"/>
+		
+		
+		
+		<parameter key="shop_buyable" value="dragon shield, 2516, 18000; battle shield, 2513, 2000; shield of honour, 2517, 34000; bonelord shield, 2518, 8000; crown shield, 2519, 22000; dark shield, 2521, 5000; ornamented shield, 2524, 4000; dwarven shield, 2525, 7000; tortoise shield, 6131, 9400; norse shield, 7460, 13000; tower shield, 2528, 21000; phoenix shield, 2539, 69000;
+fire sword, 2392, 24000; ice rapier, 2396, 14000; serpent sword, 2409, 9000; djinn blade, 2451, 53500; epee, 2438, 46000; mercenary sword, 7386, 72000; pharaoh sword, 2446, 68000; dragon slayer, 7402, 58000; assassin dagger, 7404, 66500; wyvern fang, 7408, 22000; crystal sword, 7449, 16000; war hammer, 2391, 24000; dragon hammer, 2434, 18000; skull staff, 2436, 30000; diamond sceptre, 7387, 32000; sapphire hammer, 7437, 36000; crystal mace, 2445, 42500; spiked squelcher, 7452, 38000; dragonbone staff, 7430, 26000; fire axe, 2432, 32000; knight axe, 2430, 28500; dragon lance, 2414, 69500; guardian halberd, 2427, 64000; dwarven axe, 2435, 20500; noble axe, 7456, 74500; beastslayer axe, 3962, 38000; twin axe, 2447, 56500;"/>
+
+	</parameters>
+</npc>
+

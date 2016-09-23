@@ -13184,11 +13184,11 @@
 	</item>
 	<item id="7588" article="a" name="strong health potion">
 		<attribute key="weight" value="290" />
-		<attribute key="description" value="This potion can only be consumed by paladins and knights of level 50 or higher." />
+		<attribute key="description" value="This potion can only be consumed by paladins, barbarians and knights of level 50 or higher." />
 	</item>
 	<item id="7589" article="a" name="strong mana potion">
 		<attribute key="weight" value="290" />
-		<attribute key="description" value="This potion can only be consumed by sorcerers, druids and paladins of level 50 or higher." />
+		<attribute key="description" value="This potion can only be consumed by sorcerers, druids, paladins and barbarians of level 50 or higher." />
 	</item>
 	<item id="7590" article="a" name="great mana potion">
 		<attribute key="weight" value="310" />
@@ -15208,7 +15208,7 @@
 	<item fromid="8460" toid="8471" name="earth" />
 	<item id="8472" article="a" name="great spirit potion">
 		<attribute key="weight" value="310" />
-		<attribute key="description" value="This potion can only be consumed by paladins of level 80 or higher." />
+		<attribute key="description" value="This potion can only be consumed by paladins and barbarians of level 80 or higher." />
 	</item>
 	<item id="8473" article="an" name="ultimate health potion">
 		<attribute key="weight" value="310" />
@@ -33101,7 +33101,7 @@
 	</item>
 	<item id="26030" article="a" name="ultimate spirit potion">
 		<attribute key="weight" value="310" />
-		<attribute key="description" value="This potion can only be consumed by sorcerers and druids of level 130 or higher." />
+		<attribute key="description" value="This potion can only be consumed by paladins and barbarians of level 130 or higher." />
 	</item>
 	<item id="26031" article="a" name="supreme health potion">
 		<attribute key="weight" value="310" />

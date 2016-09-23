@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Pablo White" script="loot.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="432" head="0" body="0" legs="0" feet="58" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ya apprentice |PLAYERNAME|, I was expecting you. "/>
+		<parameter key="shop_sellable" value="red wood wand, 20128, 200; frozen magical trident, 6534, 300; wand of inferno, 2187, 12000; hailstorm rod, 2183, 9000; wand of decay, 2188, 9500; necrotic rod, 2185, 8900;"/>
+		<parameter key="shop_buyable" value="red wood wand, 20128, 500; frozen magical trident, 6534, 600; wand of inferno, 2187, 36000; hailstorm rod, 2183, 34500; witch hat, 10570, 10500; wand of decay, 2188, 14500; necrotic rod, 2185, 13900;"/>
+
+	</parameters>
+</npc>
+

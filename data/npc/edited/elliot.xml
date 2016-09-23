@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Elliot" script="loot.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="268" head="79" body="57" legs="76" feet="94" addons="2"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I'm looking for creature products. If you have it, lets trade."/>
+		<parameter key="shop_sellable" value="fish,2667,250;turtle shell,5899,3550;lump of dirt,10609,215;cyclops toe, 10574, 320;orc leather, 12435, 385; heaven blossom, 5921, 13500; elven brooch, 2122, 6750; elven scouting glass, 12420, 440; elven astral observer, 12421, 380; iron ore, 5880, 510; life crystal, 2177, 990; green dragon scale, 5920, 460; green dragon leather, 5877, 690;green dragon scale, 5882, 950; green dragon leather, 5948, 1650; gland, 8971, 700; carrion worm fang, 11192, 590;"/>
+
+
+	</parameters>
+</npc>
+
