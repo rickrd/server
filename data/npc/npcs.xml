@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcs>
+	<!-- EDITED -->
+	<npc name="Elliot" file="/edited/elliot.xml"/>
+	<npc name="Pablo White" file="/edited/pablo white.xml"/>
+	<npc name="Rizzo" file="/edited/rizzo.xml"/>
+</npcs>
