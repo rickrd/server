@@ -1,8 +1,8 @@
 local config = {
 	-- strong health potion
-	[7588] = {health = {min = 250, max = 350}, vocations = {3, 4}, text = 'paladins and knights', level = 50, emptyId = 7634},
+	[7588] = {health = {min = 250, max = 350}, vocations = {3, 4, 9}, text = 'paladins, knights and barbarians', level = 50, emptyId = 7634},
 	-- strong mana potion
-	[7589] = {mana = {min = 115, max = 185}, vocations = {1, 2, 3}, text = 'sorcerers, druids and paladins', level = 50, emptyId = 7634},
+	[7589] = {mana = {min = 115, max = 185}, vocations = {1, 2, 3, 9}, text = 'sorcerers, druids, paladins and barbarians', level = 50, emptyId = 7634},
 	-- great mana potion
 	[7590] = {mana = {min = 150, max = 250}, vocations = {1, 2}, text = 'sorcerers and druids', level = 80, emptyId = 7635},
 	-- Ultimate Mana Potion
@@ -14,9 +14,9 @@ local config = {
 	-- mana potion
 	[7620] = {mana = {min = 75, max = 125}, emptyId = 7636},
 	-- great spirit potion
-	[8472] = {health = {min = 250, max = 350}, mana = {min = 100, max = 200}, vocations = {3}, text = 'paladins', level = 80, emptyId = 7635},
+	[8472] = {health = {min = 250, max = 350}, mana = {min = 100, max = 200}, vocations = {3, 9}, text = 'paladins and barbarians', level = 80, emptyId = 7635},
 	-- Ultimate Spirit Potion
-	[26030] = {health = {min = 400, max = 550}, mana = {min = 150, max = 250}, vocations = {3}, text = 'paladins', level = 130, emptyId = 7635},
+	[26030] = {health = {min = 400, max = 550}, mana = {min = 150, max = 250}, vocations = {3, 9}, text = 'paladins and barbarians', level = 130, emptyId = 7635},
 	-- ultimate health potion
 	[8473] = {health = {min = 650, max = 850}, vocations = {4}, text = 'knights', level = 130, emptyId = 7635},
 	-- supreme health potion

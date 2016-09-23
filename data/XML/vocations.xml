@@ -31,7 +31,7 @@
 		<skill id="6" multiplier="1.1"/>
 	</vocation>
 	<vocation id="3" clientid="2" name="Paladin" description="a paladin" gaincap="20" gainhp="10" gainmana="15" gainhpticks="4" gainhpamount="8" gainmanaticks="3" gainmanaamount="20" manamultiplier="1.4" attackspeed="1500" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="3">
-		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.0" distDamage="1.5" defense="1.0" armor="1.0"/>
 		<skill id="0" multiplier="1.2"/>
 		<skill id="1" multiplier="1.2"/>
 		<skill id="2" multiplier="1.2"/>
@@ -40,8 +40,8 @@
 		<skill id="5" multiplier="1.1"/>
 		<skill id="6" multiplier="1.1"/>
 	</vocation>
-		<vocation id="9" clientid="1" name="Barbarian" description="a barbarian" gaincap="25" gainhp="10" gainmana="10" gainhpticks="4" gainhpamount="9" gainmanaticks="3" gainmanaamount="15" manamultiplier="2.0" attackspeed="2000" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="9">
-		<formula meleeDamage="1.5" distDamage="1.0" defense="1.0" armor="1.0"/>
+		<vocation id="9" clientid="1" name="Barbarian" description="a barbarian" gaincap="25" gainhp="10" gainmana="10" gainhpticks="4" gainhpamount="9" gainmanaticks="3" gainmanaamount="15" manamultiplier="2.0" attackspeed="3000" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="9">
+		<formula meleeDamage="3.5" distDamage="1.0" defense="1.0" armor="1.0"/>
 		<skill id="0" multiplier="1.1"/>
 		<skill id="1" multiplier="1.1"/>
 		<skill id="2" multiplier="1.1"/>
@@ -51,7 +51,7 @@
 		<skill id="6" multiplier="1.1"/>
 	</vocation>
 	<vocation id="4" clientid="1" name="Knight" description="a knight" gaincap="25" gainhp="15" gainmana="5" gainhpticks="3" gainhpamount="10" gainmanaticks="3" gainmanaamount="10" manamultiplier="3.0" attackspeed="1400" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="4">
-		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0"/>
+		<formula meleeDamage="1.8" distDamage="1.0" defense="1.0" armor="1.0"/>
 		<skill id="0" multiplier="1.1"/>
 		<skill id="1" multiplier="1.1"/>
 		<skill id="2" multiplier="1.1"/>

@@ -2,9 +2,9 @@
 -- NOTE: valid values for worldType are: "pvp", "no-pvp" and "pvp-enforced"
 worldType = "pvp"
 hotkeyAimbotEnabled = true
-protectionLevel = 70
-killsToRedSkull = 6
-killsToBlackSkull = 9
+protectionLevel = 8
+killsToRedSkull = 12
+killsToBlackSkull = 16
 pzLocked = 60000
 removeChargesFromRunes = false
 timeToDecreaseFrags = 24 * 60 * 60 * 1000
@@ -78,9 +78,9 @@ classicEquipmentSlots = false
 -- Rates
 -- NOTE: rateExp is not used if you have enabled stages in data/XML/stages.xml
 rateExp = 400
-rateSkill = 60
-rateLoot = 5
-rateMagic = 10
+rateSkill = 150
+rateLoot = 7
+rateMagic = 40
 rateSpawn = 6
 
 -- Monsters

@@ -10,27 +10,34 @@ local config = {
 		--equipment spellbook, wand of vortex, magician's robe, mage hat, studded legs, leather boots, scarf
 		items = {{2175, 1}, {2190, 1}, {8819, 1}, {8820, 1}, {2468, 1}, {2643, 1}, {2661, 1}},
 		--container platinum coin, rope, shovel, mana potion
-		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7620, 5}}
+		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7620, 5}, {2789, 5}}
 	},
 	[2] = {
 		--equipment spellbook, snakebite rod, magician's robe, mage hat, studded legs, leather boots scarf
 		items = {{2175, 1}, {2182, 1}, {8819, 1}, {8820, 1}, {2468, 1}, {2643, 1}, {2661, 1}},
 		--container platinum coin, rope, shovel, mana potion
-		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7620, 5}}
+		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7620, 5}, {2789, 5}}
 	},
 	[3] = {
-		--equipment dwrven shield, 5 spear, ranger's cloak, ranger legs scarf, legion helmet
-		items = {{2525, 1}, {2389, 5}, {2660, 1}, {8923, 1}, {2643, 1}, {2661, 1}, {2480, 1}},
+		--equipment steel shield, 5 spear, ranger's cloak, ranger legs scarf, legion helmet
+		items = {{2509, 1}, {2389, 5}, {2660, 1}, {8923, 1}, {2643, 1}, {2661, 1}, {2480, 1}},
 		--container platinum coin, rope, shovel, health potion, mana potion
-		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7618, 5}, {7620, 5}}
+		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7618, 5}, {7620, 5}, {2789, 5}}
 	},
 	[4] = {
-		--equipment dwarven shield, steel axe, brass armor, brass helmet, brass legs scarf
-		items = {{2525, 1}, {8601, 1}, {2465, 1}, {2460, 1}, {2478, 1}, {2643, 1}, {2661, 1}},
-		--container platinum coin, jagged sword, daramian mace, rope, shovel, health potion, mana potion
-		container = {{2152, 20}, {8602, 1}, {2439, 1}, {2120, 1}, {2554, 1}, {7618, 5}, {7620, 5}}
+		--equipment steel shield, jagged sword, brass armor, brass helmet, brass legs scarf
+		items = {{2509, 1}, {8602, 1}, {2465, 1}, {2460, 1}, {2478, 1}, {2643, 1}, {2661, 1}},
+		--container platinum coin, rope, shovel, health potion, mana potion
+		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7618, 5}, {7620, 5}, {2789, 5}}
+	},
+	[9] = {
+		--equipment steel shield, steel axe, studded armor, studded helmet, studded legs scarf
+		items = {{2509, 1}, {8601, 1}, {2484, 1}, {2482, 1}, {2468, 1}, {2643, 1}, {2661, 1}},
+		--container platinum coin, rope, shovel, health potion, mana potion
+		container = {{2152, 20}, {2120, 1}, {2554, 1}, {7618, 5}, {7620, 5}, {2789, 5}}
 	}
 }
+
 
 function onLogin(player)
 	local targetVocation = config[player:getVocation():getId()]

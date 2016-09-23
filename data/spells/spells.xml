@@ -99,6 +99,9 @@
                 <vocation name="Sorcerer"/>
                 <vocation name="Master Sorcerer"/>
         </instant>
+        <instant group="attack" spellid="22" name="Ground Slam" words="ground slam" lvl="110" mana="270" direction="1" exhaustion="4000" groupcooldown="2000" needlearn="0" script="attack/ground slam.lua">
+                <vocation name="Barbarian"/>
+        </instant>
         <instant group="attack" spellid="88" name="Energy Strike" words="exori vis" lvl="12" mana="20" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="2000" groupcooldown="2000" needlearn="0" script="attack/energy strike.lua">
                 <vocation name="Sorcerer"/>
                 <vocation name="Druid"/>
@@ -145,9 +148,8 @@
                 <vocation name="Master Sorcerer"/>
                 <vocation name="Elder Druid"/>
         </instant>
-        <instant group="attack" spellid="59" name="Front Sweep" words="exori min" lvl="70" mana="200" prem="1" needweapon="1" direction="1" exhaustion="3000" groupcooldown="2000" needlearn="0" script="attack/front sweep.lua">
-                <vocation name="Knight"/>
-                <vocation name="Elite Knight"/>
+        <instant group="attack" spellid="59" name="Front Sweep" words="front sweep" lvl="70" mana="200" prem="1" needweapon="1" direction="1" exhaustion="3000" groupcooldown="2000" needlearn="0" script="attack/front sweep.lua">
+                <vocation name="Barbarian"/>
         </instant>
         <instant group="attack" spellid="23" name="Great Energy Beam" words="exevo gran vis lux" lvl="29" mana="110" direction="1" exhaustion="4000" groupcooldown="2000" needlearn="0" script="attack/great energy beam.lua">
                 <vocation name="Sorcerer"/>
@@ -172,6 +174,7 @@
                 <vocation name="Druid"/>
                 <vocation name="Paladin"/>
                 <vocation name="Knight"/>
+                <vocation name="Barbarian"/>
                 <vocation name="Master Sorcerer"/>
                 <vocation name="Elder Druid"/>
                 <vocation name="Royal Paladin"/>
@@ -215,6 +218,7 @@
                 <vocation name="Sorcerer"/>
                 <vocation name="Druid"/>
                 <vocation name="Paladin"/>
+                <vocation name="Barbarian"/>
                 <vocation name="Master Sorcerer"/>
                 <vocation name="Elder Druid"/>
                 <vocation name="Royal Paladin"/>
@@ -250,6 +254,7 @@
                 <vocation name="Druid"/>
                 <vocation name="Paladin"/>
                 <vocation name="Knight"/>
+                <vocation name="Barbarian"/>
                 <vocation name="Master Sorcerer"/>
                 <vocation name="Elder Druid"/>
                 <vocation name="Royal Paladin"/>

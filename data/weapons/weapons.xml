@@ -332,8 +332,7 @@
 	<melee id="8924" level="110" unproperly="1" />
 	<melee id="8925" level="130" unproperly="1" />
 	<melee id="8926" level="120" unproperly="1">
-		<vocation name="Knight" />
-		<vocation name="Elite Knight" showInDescription="0" />
+		<vocation name="Barbarian" />
 	</melee>
 	<melee id="11305" level="60" unproperly="1" />
 	<melee id="11309" level="20" unproperly="1">
