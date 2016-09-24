@@ -332,7 +332,7 @@
                 <vocation name="Sorcerer"/>
                 <vocation name="Master Sorcerer"/>
         </instant>
-        <instant group="attack" spellid="57" name="Strong Ethereal Spear" words="exori gran con" lvl="90" mana="55" prem="1" range="7" needtarget="1" exhaustion="6000" groupcooldown="2000" blockwalls="1" needlearn="0" script="attack/strong ethereal spear.lua">
+        <instant group="attack" spellid="57" name="Strong Ethereal Spear" words="exori gran con" lvl="90" mana="55" prem="1" range="7" needtarget="1" exhaustion="2000" groupcooldown="2000" blockwalls="1" needlearn="0" script="attack/strong ethereal spear.lua">
                 <vocation name="Paladin"/>
                 <vocation name="Royal Paladin"/>
         </instant>

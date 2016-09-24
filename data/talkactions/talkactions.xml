@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talkactions>
+
 	<!-- Gods -->
 	<talkaction words="/addskill" separator=" " script="add_skill.lua" />
 	<talkaction words="/chameleon" separator=" " script="chameleon.lua" />
@@ -14,6 +15,7 @@
 	<talkaction words="/m" separator=" " script="place_monster.lua" />
 	<talkaction words="/s" separator=" " script="place_npc.lua" />
 	<talkaction words="/summon" separator=" " script="place_summon.lua" />
+	<talkaction log="yes" group="4" separator =" " access="3" words="/outfit" script="outfit.lua"/>
 
 	<!-- Achievements Commands -->
 	<talkaction words="/addach" separator=" " script="achievements.lua" />
