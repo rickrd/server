@@ -148,7 +148,7 @@
                 <vocation name="Master Sorcerer"/>
                 <vocation name="Elder Druid"/>
         </instant>
-        <instant group="attack" spellid="59" name="Front Sweep" words="front sweep" lvl="70" mana="200" prem="1" needweapon="1" direction="1" exhaustion="3000" groupcooldown="2000" needlearn="0" script="attack/front sweep.lua">
+        <instant group="attack" spellid="59" name="Front Sweep" words="front sweep" lvl="70" mana="120" prem="1" needweapon="1" direction="1" exhaustion="3000" groupcooldown="2000" needlearn="0" script="attack/front sweep.lua">
                 <vocation name="Barbarian"/>
         </instant>
         <instant group="attack" spellid="23" name="Great Energy Beam" words="exevo gran vis lux" lvl="29" mana="110" direction="1" exhaustion="4000" groupcooldown="2000" needlearn="0" script="attack/great energy beam.lua">
