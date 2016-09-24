@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movements>
-    <!-- Ferumbras Ancendant Quest -->
+    	<!-- EDITED -->
+	<!-- Horestis Chain Amulet -->
+		<movevent type="Equip" itemid="21244" slot="necklace" event="function" value="onEquipItem"/>
+		<movevent type="DeEquip" itemid="21244" slot="necklace" event="function" value="onDeEquipItem"/>
+	
+	<!-- Spellbook of Dothra -->
+	<movevent type="Equip" itemid="13831" slot="shield" level="70" event="function" value="onEquipItem">
+			<vocation name="Sorcerer"/>
+			<vocation name="Druid"/>
+			<vocation id="5;6" showInDescription="0"/>
+	</movevent>
+	
+	<!-- TORTOISES TELEPORT -->
+	<movevent type="StepIn" actionid="40001" event="script" value="tortoises/teleport1.lua"/>
+	<movevent type="StepIn" actionid="40002" event="script" value="tortoises/teleport2.lua"/>
+	<movevent type="StepIn" actionid="40003" event="script" value="tortoises/teleport3.lua"/>
+	<movevent type="StepIn" actionid="40004" event="script" value="tortoises/teleport4.lua"/>
+	<movevent type="StepIn" actionid="40005" event="script" value="tortoises/teleport5.lua"/>
+	<movevent type="StepIn" actionid="40006" event="script" value="tortoises/teleport6.lua"/>
+	<movevent type="StepIn" actionid="40007" event="script" value="tortoises/teleport7.lua"/>
+	<movevent type="StepIn" actionid="40008" event="script" value="tortoises/teleport8.lua"/>
+	<movevent type="StepIn" actionid="40009" event="script" value="tortoises/teleport9.lua"/>
+	<movevent type="StepIn" actionid="40010" event="script" value="edited/teleportcenter.lua"/>
+	<movevent type="StepIn" actionid="40011" event="script" value="edited/teleportprivacidade1.lua"/>
+	<movevent type="StepIn" actionid="40012" event="script" value="edited/teleportprivacidade2.lua"/>
+	<movevent type="StepIn" actionid="40013" event="script" value="edited/quest_cyclops.lua"/>
+	
+	
+	
+	
+	
+	<!-- Ferumbras Ancendant Quest -->
 	<movevent event="StepIn" actionid="51991" script="others/ferumbras1.lua" />
 	<movevent event="StepIn" actionid="51992" script="others/ferumbras2.lua" />
 	<movevent event="StepIn" actionid="51993" script="others/ferumbras3.lua" />
@@ -557,6 +588,10 @@
 	<movevent event="DeEquip" itemid="23540" slot="feet" function="onDeEquipItem" />
 
 	<!-- Amulets -->
+	
+		<!-- Wimp Tooth -->
+		<movevent type="Equip" itemid="20127" slot="necklace" event="function" value="onEquipItem"/>
+		<movevent type="DeEquip" itemid="20127" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent event="Equip" itemid="25402" slot="necklace" level="350" function="onEquipItem" />
 	<movevent event="DeEquip" itemid="25402" slot="necklace" function="onDeEquipItem" />
 	<movevent event="Equip" itemid="2161" slot="necklace" function="onEquipItem" />
