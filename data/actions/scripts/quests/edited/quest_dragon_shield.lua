@@ -2,7 +2,6 @@ function onUse (cid,item,frompos,item2,topos)
         UID_DO_BAU = 15003
         STORAGE_VALUE = 45003
         ID_ITEM = 2516
-        item_name = dragon shield
 		LevelQuest = 30
         pos = {x = 1180, y =1164, z =6}
  
@@ -10,7 +9,7 @@ function onUse (cid,item,frompos,item2,topos)
           if item.uid == UID_DO_BAU then
             queststatus = getPlayerStorageValue(cid,STORAGE_VALUE)
             if queststatus ~= 1 then
-              doPlayerSendTextMessage(cid,22,'congratulations, you have found a '..item_name..'.') 
+              doPlayerSendTextMessage(cid,22,'congratulations, you have found a '.. getItemNameById(ID_ITEM) .. '.') 
               doPlayerAddItem(cid,ID_ITEM,1)
               setPlayerStorageValue(cid,STORAGE_VALUE,1)
               doTeleportThing(cid, pos)

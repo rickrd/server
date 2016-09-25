@@ -9,7 +9,7 @@ function onUse (cid,item,frompos,item2,topos)
           if item.uid == UID_DO_BAU then
             queststatus = getPlayerStorageValue(cid,STORAGE_VALUE)
             if queststatus ~= 1 then
-              doPlayerSendTextMessage(cid,22,"congratulations, you have found a Warrior Helmet.") 
+              doPlayerSendTextMessage(cid,22,'congratulations, you have found a '.. getItemNameById(ID_ITEM) .. '.') 
               doPlayerAddItem(cid,ID_ITEM,1)
               setPlayerStorageValue(cid,STORAGE_VALUE,1)
               doTeleportThing(cid, pos)

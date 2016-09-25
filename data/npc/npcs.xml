@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npcs>
 	<!-- EDITED -->
-	<npc name="Elliot" file="/edited/elliot.xml"/>
-	<npc name="Pablo White" file="/edited/pablo white.xml"/>
-	<npc name="Rizzo" file="/edited/rizzo.xml"/>
+	<npc name="Elliot" file="/Elliot.xml"/>
+	<npc name="Pablo White" file="/Pablo white.xml"/>
+	<npc name="Rizzo" file="/Rizzo.xml"/>
+	<npc name="Xodet" file="/xodet.xml"/>
+	<npc name="Gorn" file="/gorn.xml"/>
+	<npc name="Billy" file="/billy.xml"/>
 </npcs>
