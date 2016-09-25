@@ -1,7 +1,7 @@
 local config = {
-	heal = true,
+	heal = false,
 	save = true,
-	effect = false
+	effect = true
 }
 
 function onAdvance(player, skill, oldLevel, newLevel)
