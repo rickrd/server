@@ -3419,15 +3419,15 @@
 		<attribute key="description" value="The extraordinary sharp blade penetrates every armor." />
 		<attribute key="weight" value="6700" />
 		<attribute key="defense" value="16" />
-		<attribute key="attack" value="47" />
+		<attribute key="attack" value="61" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2415" article="a" name="great axe">
 		<attribute key="description" value="A masterpiece of a dwarven smith." />
 		<attribute key="weight" value="9000" />
-		<attribute key="defense" value="22" />
-		<attribute key="attack" value="52" />
+		<attribute key="defense" value="32" />
+		<attribute key="attack" value="62" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -3495,7 +3495,7 @@
 	<item id="2425" article="an" name="obsidian lance">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="10" />
-		<attribute key="attack" value="34" />
+		<attribute key="attack" value="44" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -3518,6 +3518,7 @@
 		<attribute key="defense" value="12" />
 		<attribute key="attack" value="23" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2429" article="a" name="barbarian axe">
 		<attribute key="weight" value="5100" />
@@ -3525,6 +3526,7 @@
 		<attribute key="attack" value="28" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="1" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2430" article="a" name="knight axe">
 		<attribute key="weight" value="5900" />
@@ -3532,6 +3534,7 @@
 		<attribute key="attack" value="33" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="1" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2431" article="a" name="stonecutter axe">
 		<attribute key="description" value="You feel the power of this mighty axe." />
@@ -3549,6 +3552,7 @@
 		<attribute key="elementFire" value="11" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="1" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2433" article="an" name="enchanted staff">
 		<attribute key="description" value="Temporary magic powers enchant this staff." />
@@ -3572,6 +3576,7 @@
 		<attribute key="attack" value="31" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="2" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2436" article="a" name="skull staff">
 		<attribute key="description" value="The staff longs for death." />
@@ -3611,6 +3616,7 @@
 		<attribute key="defense" value="8" />
 		<attribute key="attack" value="17" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2442" article="a" name="heavy machete">
 		<attribute key="weight" value="1840" />
@@ -7317,6 +7323,7 @@
 		<attribute key="attack" value="35" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="1" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="3963" article="a" name="templar scytheblade">
 		<attribute key="weight" value="2900" />
@@ -7328,7 +7335,7 @@
 	<item id="3964" article="a" name="ripper lance">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="7" />
-		<attribute key="attack" value="28" />
+		<attribute key="attack" value="36" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>

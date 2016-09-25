@@ -331,6 +331,9 @@
 	<melee id="2414" level="60" unproperly="1" >
 		<vocation name="Barbarian" />
 	</melee>
+	<melee id="3964" level="40" unproperly="1" >
+		<vocation name="Barbarian" />
+	</melee>
 	<melee id="2454" level="65" unproperly="1">
 		<vocation name="Barbarian" />
 	</melee>

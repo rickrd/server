@@ -87,6 +87,10 @@
                 <vocation name="Paladin"/>
                 <vocation name="Royal Paladin"/>
         </instant>
+                <instant group="attack" spellid="122" name="Divine Missile" words="exori gran san" lvl="120" mana="140" prem="1" range="5" casterTargetOrDirection="1" needlearn="0" blockwalls="1" exhaustion="2000" groupcooldown="2000" script="attack/strong divine missile.lua">
+                <vocation name="Paladin"/>
+                <vocation name="Royal Paladin"/>
+        </instant>
         <instant group="attack" spellid="140" name="Electrify" words="utori vis" lvl="34" mana="30" range="3" aggressive="1" blockwalls="1" needtarget="1" exhaustion="30000" groupcooldown="2000" needlearn="0" script="attack/electrify.lua">
                 <vocation name="Sorcerer"/>
                 <vocation name="Master Sorcerer"/>

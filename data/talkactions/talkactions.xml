@@ -58,6 +58,7 @@
 	<talkaction words="!online" script="online.lua" />
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
 	<talkaction words="!addon" separator=" " script="addon.lua" />
+	<talkaction words="!spells" separator=" " script="spells.lua" />
 
 	<!-- Cast System -->
 	<talkaction words="!cast on" separator=" " script="start_cast.lua" />
